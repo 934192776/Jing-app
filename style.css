@@ -1,6 +1,7 @@
 h1 {
            text-align:center;
            color:red;
+           font-size:40px;
         }
 
 img {
@@ -10,10 +11,23 @@ img {
          display:block;
         }
 .contact-btn {
+         font-size:20px;
          text-align:center;
          display:block;
          margin:0 auto;
-         width:200px;
+         width:100px;
          color:green;
         }
+.btn-primary {
+         color:white;
+         background-color: blue;
+       
+        }
+.btn {
+     font-weight:400;
+     border:1px solid transparent;
+     padding: 8px;
+     border-radius: 6px;
+     transition:cubic-bezier(0.075, 0.82, 0.165, 1);
+     }
 
