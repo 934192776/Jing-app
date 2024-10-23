@@ -2,3 +2,18 @@ h1 {
            text-align:center;
            color:red;
         }
+
+img {
+         width: 300px;
+         margin:20px auto;
+         border-radius:20px;
+         display:block;
+        }
+.contact-btn {
+         text-align:center;
+         display:block;
+         margin:0 auto;
+         width:200px;
+         color:green;
+        }
+
